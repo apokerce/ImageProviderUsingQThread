@@ -1,5 +1,6 @@
 # Qt to Qml Image Provider
 This documentation is prepared to give an example on how to send the frames on Qt side to the qml. To have insight about the code one can read the comments provided in the code or refer the https://doc.qt.io/qt-6/qquickimageprovider.html
+A custom menubar is added to project, one can observe and adjust according to her/him needs.
 
 
 
@@ -17,10 +18,10 @@ and overriding the methods we create a class to send the frames to qml.
 
 
 <p align="center">
-  <img width="550" height="585" src="https://user-images.githubusercontent.com/94297285/193527601-f0833a72-d6f1-4499-b73d-ae33d470be7d.png">
+  <img width="550" height="585" src="https://user-images.githubusercontent.com/94297285/193598348-33d017c9-76d1-408d-9f25-792243ca6e9a.png">
 </p>
 
 <p align="center">
-  <img width="550" height="585" src="https://user-images.githubusercontent.com/94297285/193527610-de2c00b9-094d-4af7-98aa-fd1f5064bd59.png">
+  <img width="550" height="585" src="https://user-images.githubusercontent.com/94297285/193598357-dc2da990-9c2f-44b2-91e0-bfc72a58ff21.png">
 </p>
 
