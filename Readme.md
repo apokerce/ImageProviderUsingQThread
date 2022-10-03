@@ -1,5 +1,5 @@
 # Qt to Qml Image Provider
-This documentation is prepared to give an example on how to send the frames on Qt side to the qml.
+This documentation is prepared to give an example on how to send the frames on Qt side to the qml. To have insight about the code one can read the comments provided in the code or refer the https://doc.qt.io/qt-6/qquickimageprovider.html
 
 
 
